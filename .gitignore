@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# Blender
+*.blend1
+*.blend2
+*.blend@
+*.fbx
+*.obj
+
+# Bake output
+baked_export/
+**/baked_export/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
